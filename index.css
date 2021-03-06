@@ -1,0 +1,17 @@
+body{
+
+    margin-top: 350px;
+    text-align: center;
+    background-image: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+h2{
+ background-color: black;
+color:white;
+}
