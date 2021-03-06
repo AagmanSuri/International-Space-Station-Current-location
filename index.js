@@ -1,4 +1,4 @@
-const button = document.getElementById("1");
+const button = document.getElementById("one");
 const title = document.getElementById("title");
 
 
